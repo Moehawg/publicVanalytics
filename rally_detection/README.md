@@ -2,7 +2,8 @@
 
 ## Overview
 
-This module is part of a larger volleyball action recognition pipeline. It focuses on detecting and tracking the volleyball throughout match videos and refining the resulting trajectories. Using a YOLO-based detector, the code extracts ball positions in each frame, associates detections into continuous tracks, and processes these tracks through interpolation and smoothing. Finally, it classifies segments of ball movement (rallies) and provides several visualization functions to support analysis and debugging.
+This module focuses on detecting and tracking the volleyball throughout match videos and refining the resulting trajectories. Using a YOLO-based detector, the code extracts ball positions in each frame, associates detections into continuous tracks, and processes these tracks through interpolation and smoothing. Finally, it classifies segments of ball movement (rallies) and provides several visualization functions to support analysis and debugging.
+
 
 ## Features
 
