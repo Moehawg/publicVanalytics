@@ -5,7 +5,7 @@ The purpose of this repository is to support and inspire research and developmen
 
 To maintain the competitive edge and proprietary nature of our platform, datasets, specific model architectures, and internally developed algorithms that are critical or unique to Vanalytics will not be published in this repository.
 
-## 📁 Contents
+## Contents
 
 - `rally_detection/`  
   Code for automatically splitting a full volleyball match video into individual rallies.
@@ -20,13 +20,13 @@ To maintain the competitive edge and proprietary nature of our platform, dataset
   Code for detecting volleyball court lines from video frames.
 
 - `action_classification/`  
-  A lightweight ML model for classifying the type of reception (e.g., upper hand vs. lower hand).
+  A casestudy with a lightweight ML model to explore possibiliities for classifying the type of reception (e.g., upper hand vs. lower hand).
 
 Each module contains its own README with a short explanation and usage instructions.
 
-## 🔒 Exclusions
+## Exclusions
 
-To maintain the privacy and uniqueness of Vanalytics’ core IP, this repository does **not** include:
+To maintain the privacy and uniqueness of Vanalytics, this repository does **not** include:
 - Full datasets
 - End-to-end model training pipelines
 - Custom model architectures
