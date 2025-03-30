@@ -20,7 +20,7 @@ This repository contains a Jupyter notebook that documents the full development 
 Below are two example frames used in the dataset after pose estimation. They illustrate the distinction between the **upper reception** and **lower reception** classes, based solely on the player's body posture and arm positioning:
 
 **Upper Reception (Keypoints Overlayed)**  
-![Upper Receive](upper_22.png)
+![Upper Receive](resource/upper_22.png)
 
 **Lower Reception (Keypoints Overlayed)**  
-![Lower Receive](lower_6.png)
+![Lower Receive](resource/lower_6.png)
