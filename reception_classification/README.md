@@ -1,6 +1,6 @@
 # Volleyball Reception Classification 
 
-This repository contains a Jupyter notebook that documents the full development process of a machine learning model used to classify volleyball receptions as either **"upper"** or **"lower"**, using only **skeleton keypoints** extracted via pose estimation (no raw image data required).
+This repository contains a Jupyter notebook that documents the full development process of a machine learning model used to classify volleyball receptions as either **"upper"** or **"lower"**, using only **skeleton keypoints** extracted via pose estimation.
 
 ## What's Inside the Notebook
 
