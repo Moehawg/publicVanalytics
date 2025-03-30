@@ -19,7 +19,7 @@ To maintain the competitive edge and proprietary nature of our platform, dataset
 - `court_line_detection/`  (Needs to be revised before publication; ETA around June 2026)
   Code for detecting volleyball court lines from video frames.
 
-- `action_classification/`  
+- `reception_classification/`  
   A casestudy with a lightweight ML model to explore possibiliities for classifying the type of reception (e.g., upper hand vs. lower hand).
 
 Each module contains its own README with a short explanation and usage instructions.
