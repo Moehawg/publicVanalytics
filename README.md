@@ -13,10 +13,10 @@ To maintain the competitive edge and proprietary nature of our platform, dataset
 - `homography/`  
   Tools to transform player and ball coordinates from camera view to a 2D minimap using homography.
 
-- `player_identification/`  (Needs to be revised before publication; ETA around June 2026)
+- `player_identification/`  (Needs to be revised before publication; ETA around September 2026)
   Scripts for identifying players using individual features and OCR-based jersey number recognition.
 
-- `court_line_detection/`  (Needs to be revised before publication; ETA around June 2026)
+- `court_line_detection/`  (Needs to be revised before publication; ETA around September 2026)
   Code for detecting volleyball court lines from video frames.
 
 - `reception_classification/`  
